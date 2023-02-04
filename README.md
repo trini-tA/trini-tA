@@ -5,7 +5,7 @@
 
 ![trini-tA's GitHub stats](https://github-readme-stats.vercel.app/api?username=trini-tA&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trini-tA&hide=TeX&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trini-tA&hide=TeX&theme=transparent)
 
 <!---
 trini-tA/trini-tA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
